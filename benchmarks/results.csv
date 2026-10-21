@@ -1,0 +1,901 @@
+kind,seed,planted,ok,exact,verdict,extra_findings,engine_said
+single,1000,region=Gujarat & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Gujarat & device=Mobile
+single,1001,region=Gujarat & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Gujarat & device=Mobile
+single,1002,region=Tamil Nadu & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Tamil Nadu & device=Mobile
+single,1003,region=Mumbai & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Mobile
+single,1004,region=Delhi & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Mobile
+single,1005,region=Gujarat & device=Mobile: conversion x0.5,True,True,offsetting_moves,0,region=Gujarat & device=Mobile
+single,1006,region=Delhi & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Mobile
+single,1007,region=Mumbai & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Mobile
+single,1008,region=Delhi & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Mobile
+single,1009,region=Delhi & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Desktop
+single,1010,region=Bengaluru & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Bengaluru & device=Mobile
+single,1011,region=Mumbai & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Mobile
+single,1012,region=Gujarat & device=Mobile: conversion x0.5,True,True,offsetting_moves,0,region=Gujarat & device=Mobile
+single,1013,region=Gujarat & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Gujarat & device=Mobile
+single,1014,region=Bengaluru & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Bengaluru & device=Desktop
+single,1015,region=Bengaluru & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Bengaluru & device=Mobile
+single,1016,region=Bengaluru & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Bengaluru & device=Mobile
+single,1017,region=Gujarat & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Gujarat & device=Mobile
+single,1018,region=Gujarat & device=Mobile: conversion x0.5,True,True,offsetting_moves,0,region=Gujarat & device=Mobile
+single,1019,region=Mumbai & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Mobile
+single,1020,region=Bengaluru & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Bengaluru & device=Mobile
+single,1021,region=Bengaluru & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Bengaluru & device=Desktop
+single,1022,region=Bengaluru & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Bengaluru & device=Mobile
+single,1023,region=West Bengal & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=West Bengal & device=Mobile
+single,1024,region=Gujarat & device=Mobile: conversion x0.5,True,True,offsetting_moves,0,region=Gujarat & device=Mobile
+single,1025,region=West Bengal & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=West Bengal & device=Mobile
+single,1026,region=Delhi & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Desktop
+single,1027,region=Bengaluru & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Bengaluru & device=Desktop
+single,1028,region=West Bengal & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=West Bengal & device=Mobile
+single,1029,region=West Bengal & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=West Bengal & device=Mobile
+single,1030,region=West Bengal & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=West Bengal & device=Mobile
+single,1031,region=Delhi & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Mobile
+single,1032,region=West Bengal & device=Mobile: conversion x0.5,True,True,offsetting_moves,0,region=West Bengal & device=Mobile
+single,1033,region=Delhi & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Mobile
+single,1034,region=Tamil Nadu & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Tamil Nadu & device=Mobile
+single,1035,region=Mumbai & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Desktop
+single,1036,region=Mumbai & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Desktop
+single,1037,region=Mumbai & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Desktop
+single,1038,region=Tamil Nadu & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Tamil Nadu & device=Mobile
+single,1039,region=Tamil Nadu & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Tamil Nadu & device=Mobile
+single,1040,region=Bengaluru & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Bengaluru & device=Mobile
+single,1041,region=West Bengal & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=West Bengal & device=Mobile
+single,1042,region=Bengaluru & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Bengaluru & device=Mobile
+single,1043,region=Gujarat & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Gujarat & device=Mobile
+single,1044,region=West Bengal & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=West Bengal & device=Mobile
+single,1045,region=Delhi & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Desktop
+single,1046,region=Mumbai & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Mobile
+single,1047,region=Delhi & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Mobile
+single,1048,region=Bengaluru & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Bengaluru & device=Mobile
+single,1049,region=West Bengal & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=West Bengal & device=Mobile
+single,1050,region=Mumbai & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Desktop
+single,1051,region=West Bengal & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=West Bengal & device=Mobile
+single,1052,region=Mumbai & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Desktop
+single,1053,region=Delhi & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Desktop
+single,1054,region=Bengaluru & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Bengaluru & device=Desktop
+single,1055,region=Delhi & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Mobile
+single,1056,region=Gujarat & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Gujarat & device=Mobile
+single,1057,region=Mumbai & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Desktop
+single,1058,region=Mumbai & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Desktop
+single,1059,region=Tamil Nadu & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Tamil Nadu & device=Mobile
+single,1060,region=Gujarat & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Gujarat & device=Mobile
+single,1061,region=Mumbai & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Desktop
+single,1062,region=Delhi & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Mobile
+single,1063,region=West Bengal & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=West Bengal & device=Mobile
+single,1064,region=Tamil Nadu & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Tamil Nadu & device=Mobile
+single,1065,region=Bengaluru & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Bengaluru & device=Desktop
+single,1066,region=Bengaluru & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Bengaluru & device=Mobile
+single,1067,region=Mumbai & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Desktop
+single,1068,region=Mumbai & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Mobile
+single,1069,region=Gujarat & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Gujarat & device=Mobile
+single,1070,region=Bengaluru & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Bengaluru & device=Desktop
+single,1071,region=West Bengal & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=West Bengal & device=Mobile
+single,1072,region=Bengaluru & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Bengaluru & device=Desktop
+single,1073,region=Delhi & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Desktop
+single,1074,region=Tamil Nadu & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Tamil Nadu & device=Mobile
+single,1075,region=Gujarat & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Gujarat & device=Mobile
+single,1076,region=Gujarat & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Gujarat & device=Mobile
+single,1077,region=Gujarat & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Gujarat & device=Mobile
+single,1078,region=Gujarat & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Gujarat & device=Mobile
+single,1079,region=Mumbai & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Desktop
+single,1080,region=Mumbai & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Desktop
+single,1081,region=Gujarat & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Gujarat & device=Mobile
+single,1082,region=Gujarat & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Gujarat & device=Mobile
+single,1083,region=West Bengal & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=West Bengal & device=Mobile
+single,1084,region=Mumbai & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Desktop
+single,1085,region=Mumbai & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Desktop
+single,1086,region=Bengaluru & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Bengaluru & device=Mobile
+single,1087,region=Bengaluru & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Bengaluru & device=Mobile
+single,1088,region=West Bengal & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=West Bengal & device=Mobile
+single,1089,region=Delhi & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Mobile
+single,1090,region=Mumbai & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Mobile
+single,1091,region=West Bengal & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=West Bengal & device=Mobile
+single,1092,region=Delhi & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Desktop
+single,1093,region=Delhi & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Mobile
+single,1094,region=Delhi & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Mobile
+single,1095,region=Delhi & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Desktop
+single,1096,region=Tamil Nadu & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Tamil Nadu & device=Mobile
+single,1097,region=Gujarat & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Gujarat & device=Mobile
+single,1098,region=Delhi & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Desktop
+single,1099,region=Delhi & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Mobile
+double,1000,region=Gujarat & device=Mobile: conversion x0.5; region=Bengaluru & device=Desktop: conversion x0.6,True,True,clear_driver,0,region=Bengaluru & device=Desktop; region=Gujarat & device=Mobile
+double,1001,region=Gujarat & device=Mobile: conversion x0.5; region=Delhi & device=Desktop: conversion x0.6,True,True,clear_driver,0,region=Delhi & device=Desktop; region=Gujarat & device=Mobile
+double,1002,region=Tamil Nadu & device=Mobile: conversion x0.5; region=Bengaluru & device=Mobile: conversion x0.6,True,False,clear_driver,0,device=Mobile
+double,1003,region=Mumbai & device=Mobile: conversion x0.5; region=Delhi & device=Mobile: conversion x0.6,True,False,clear_driver,0,device=Mobile
+double,1004,region=Delhi & device=Mobile: conversion x0.5; region=Mumbai & device=Desktop: conversion x0.6,True,True,clear_driver,0,region=Delhi & device=Mobile; region=Mumbai & device=Desktop
+double,1005,region=Gujarat & device=Mobile: conversion x0.5; region=Bengaluru & device=Desktop: conversion x0.6,True,True,clear_driver,0,region=Bengaluru & device=Desktop; region=Gujarat & device=Mobile
+double,1006,region=Delhi & device=Mobile: conversion x0.5; region=Mumbai & device=Mobile: conversion x0.6,True,False,clear_driver,0,device=Mobile
+double,1007,region=Mumbai & device=Mobile: conversion x0.5; region=Tamil Nadu & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Mumbai & device=Mobile; region=Tamil Nadu & device=Mobile
+double,1008,region=Delhi & device=Mobile: conversion x0.5; region=Mumbai & device=Desktop: conversion x0.6,True,True,clear_driver,0,region=Delhi & device=Mobile; region=Mumbai & device=Desktop
+double,1009,region=Delhi & device=Desktop: conversion x0.5; region=West Bengal & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Delhi & device=Desktop; region=West Bengal & device=Mobile
+double,1010,region=Bengaluru & device=Mobile: conversion x0.5; region=Mumbai & device=Desktop: conversion x0.6,True,True,clear_driver,0,region=Bengaluru & device=Mobile; region=Mumbai & device=Desktop
+double,1011,region=Mumbai & device=Mobile: conversion x0.5; region=Bengaluru & device=Desktop: conversion x0.6,True,True,clear_driver,1,region=Mumbai & device=Mobile; region=Bengaluru & device=Desktop; region=Bengaluru & channel=Organic
+double,1012,region=Gujarat & device=Mobile: conversion x0.5; region=Delhi & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Delhi & device=Mobile; region=Gujarat & device=Mobile
+double,1013,region=Gujarat & device=Mobile: conversion x0.5; region=Bengaluru & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Bengaluru & device=Mobile; region=Gujarat & device=Mobile
+double,1014,region=Bengaluru & device=Desktop: conversion x0.5; region=Delhi & device=Desktop: conversion x0.6,True,False,clear_driver,0,device=Desktop
+double,1015,region=Bengaluru & device=Mobile: conversion x0.5; region=Mumbai & device=Desktop: conversion x0.6,True,True,clear_driver,0,region=Bengaluru & device=Mobile; region=Mumbai & device=Desktop
+double,1016,region=Bengaluru & device=Mobile: conversion x0.5; region=Mumbai & device=Mobile: conversion x0.6,True,False,clear_driver,0,device=Mobile
+double,1017,region=Gujarat & device=Mobile: conversion x0.5; region=Mumbai & device=Desktop: conversion x0.6,True,True,clear_driver,0,region=Mumbai & device=Desktop; region=Gujarat & device=Mobile
+double,1018,region=Gujarat & device=Mobile: conversion x0.5; region=Delhi & device=Desktop: conversion x0.6,True,True,clear_driver,0,region=Delhi & device=Desktop; region=Gujarat & device=Mobile
+double,1019,region=Mumbai & device=Mobile: conversion x0.5; region=Delhi & device=Mobile: conversion x0.6,True,False,clear_driver,0,device=Mobile
+double,1020,region=Bengaluru & device=Mobile: conversion x0.5; region=Mumbai & device=Mobile: conversion x0.6,True,False,clear_driver,0,device=Mobile
+double,1021,region=Bengaluru & device=Desktop: conversion x0.5; region=Gujarat & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Bengaluru & device=Desktop; region=Gujarat & device=Mobile
+double,1022,region=Bengaluru & device=Mobile: conversion x0.5; region=Tamil Nadu & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Bengaluru & device=Mobile; region=Tamil Nadu & device=Mobile
+double,1023,region=West Bengal & device=Mobile: conversion x0.5; region=Mumbai & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Mumbai & device=Mobile; region=West Bengal & device=Mobile
+double,1024,region=Gujarat & device=Mobile: conversion x0.5; region=Bengaluru & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Bengaluru & device=Mobile; region=Gujarat & device=Mobile
+double,1025,region=West Bengal & device=Mobile: conversion x0.5; region=Gujarat & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=West Bengal & device=Mobile; region=Gujarat & device=Mobile
+double,1026,region=Delhi & device=Desktop: conversion x0.5; region=Bengaluru & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Delhi & device=Desktop; region=Bengaluru & device=Mobile
+double,1027,region=Bengaluru & device=Desktop: conversion x0.5; region=Tamil Nadu & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Bengaluru & device=Desktop; region=Tamil Nadu & device=Mobile
+double,1028,region=West Bengal & device=Mobile: conversion x0.5; region=Tamil Nadu & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=West Bengal & device=Mobile; region=Tamil Nadu & device=Mobile
+double,1029,region=West Bengal & device=Mobile: conversion x0.5; region=Bengaluru & device=Desktop: conversion x0.6,True,True,clear_driver,0,region=West Bengal & device=Mobile; region=Bengaluru & device=Desktop
+double,1030,region=West Bengal & device=Mobile: conversion x0.5; region=Bengaluru & device=Desktop: conversion x0.6,True,True,clear_driver,0,region=West Bengal & device=Mobile; region=Bengaluru & device=Desktop
+double,1031,region=Delhi & device=Mobile: conversion x0.5; region=Bengaluru & device=Desktop: conversion x0.6,True,True,clear_driver,0,region=Delhi & device=Mobile; region=Bengaluru & device=Desktop
+double,1032,region=West Bengal & device=Mobile: conversion x0.5; region=Bengaluru & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Bengaluru & device=Mobile; region=West Bengal & device=Mobile
+double,1033,region=Delhi & device=Mobile: conversion x0.5; region=West Bengal & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Delhi & device=Mobile; region=West Bengal & device=Mobile
+double,1034,region=Tamil Nadu & device=Mobile: conversion x0.5; region=Bengaluru & device=Desktop: conversion x0.6,True,True,clear_driver,0,region=Tamil Nadu & device=Mobile; region=Bengaluru & device=Desktop
+double,1035,region=Mumbai & device=Desktop: conversion x0.5; region=Delhi & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Delhi & device=Mobile; region=Mumbai & device=Desktop
+double,1036,region=Mumbai & device=Desktop: conversion x0.5; region=Delhi & device=Desktop: conversion x0.6,True,False,clear_driver,0,device=Desktop
+double,1037,region=Mumbai & device=Desktop: conversion x0.5; region=Gujarat & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Mumbai & device=Desktop; region=Gujarat & device=Mobile
+double,1038,region=Tamil Nadu & device=Mobile: conversion x0.5; region=Gujarat & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Tamil Nadu & device=Mobile; region=Gujarat & device=Mobile
+double,1039,region=Tamil Nadu & device=Mobile: conversion x0.5; region=Mumbai & device=Desktop: conversion x0.6,True,True,clear_driver,0,region=Tamil Nadu & device=Mobile; region=Mumbai & device=Desktop
+double,1040,region=Bengaluru & device=Mobile: conversion x0.5; region=West Bengal & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Bengaluru & device=Mobile; region=West Bengal & device=Mobile
+double,1041,region=West Bengal & device=Mobile: conversion x0.5; region=Bengaluru & device=Desktop: conversion x0.6,True,True,clear_driver,0,region=West Bengal & device=Mobile; region=Bengaluru & device=Desktop
+double,1042,region=Bengaluru & device=Mobile: conversion x0.5; region=Mumbai & device=Mobile: conversion x0.6,True,False,clear_driver,0,device=Mobile
+double,1043,region=Gujarat & device=Mobile: conversion x0.5; region=Mumbai & device=Mobile: conversion x0.6,True,False,clear_driver,0,device=Mobile
+double,1044,region=West Bengal & device=Mobile: conversion x0.5; region=Bengaluru & device=Desktop: conversion x0.6,True,True,clear_driver,0,region=Bengaluru & device=Desktop; region=West Bengal & device=Mobile
+double,1045,region=Delhi & device=Desktop: conversion x0.5; region=Tamil Nadu & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Delhi & device=Desktop; region=Tamil Nadu & device=Mobile
+double,1046,region=Mumbai & device=Mobile: conversion x0.5; region=Gujarat & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Mumbai & device=Mobile; region=Gujarat & device=Mobile
+double,1047,region=Delhi & device=Mobile: conversion x0.5; region=Mumbai & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Delhi & device=Mobile; region=Mumbai & device=Mobile
+double,1048,region=Bengaluru & device=Mobile: conversion x0.5; region=Delhi & device=Desktop: conversion x0.6,True,True,clear_driver,0,region=Bengaluru & device=Mobile; region=Delhi & device=Desktop
+double,1049,region=West Bengal & device=Mobile: conversion x0.5; region=Delhi & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Delhi & device=Mobile; region=West Bengal & device=Mobile
+double,1050,region=Mumbai & device=Desktop: conversion x0.5; region=Bengaluru & device=Desktop: conversion x0.6,True,False,clear_driver,0,device=Desktop
+double,1051,region=West Bengal & device=Mobile: conversion x0.5; region=Delhi & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Delhi & device=Mobile; region=West Bengal & device=Mobile
+double,1052,region=Mumbai & device=Desktop: conversion x0.5; region=Gujarat & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Mumbai & device=Desktop; region=Gujarat & device=Mobile
+double,1053,region=Delhi & device=Desktop: conversion x0.5; region=Bengaluru & device=Desktop: conversion x0.6,True,False,clear_driver,0,device=Desktop
+double,1054,region=Bengaluru & device=Desktop: conversion x0.5; region=Mumbai & device=Desktop: conversion x0.6,True,False,clear_driver,0,device=Desktop
+double,1055,region=Delhi & device=Mobile: conversion x0.5; region=Bengaluru & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Delhi & device=Mobile; region=Bengaluru & device=Mobile
+double,1056,region=Gujarat & device=Mobile: conversion x0.5; region=Tamil Nadu & device=Mobile: conversion x0.6,True,False,clear_driver,0,device=Mobile
+double,1057,region=Mumbai & device=Desktop: conversion x0.5; region=Delhi & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Delhi & device=Mobile; region=Mumbai & device=Desktop
+double,1058,region=Mumbai & device=Desktop: conversion x0.5; region=West Bengal & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Mumbai & device=Desktop; region=West Bengal & device=Mobile
+double,1059,region=Tamil Nadu & device=Mobile: conversion x0.5; region=Delhi & device=Desktop: conversion x0.6,True,True,clear_driver,0,region=Tamil Nadu & device=Mobile; region=Delhi & device=Desktop
+double,1060,region=Gujarat & device=Mobile: conversion x0.5; region=Bengaluru & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Bengaluru & device=Mobile; region=Gujarat & device=Mobile
+double,1061,region=Mumbai & device=Desktop: conversion x0.5; region=Delhi & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Mumbai & device=Desktop; region=Delhi & device=Mobile
+double,1062,region=Delhi & device=Mobile: conversion x0.5; region=Mumbai & device=Desktop: conversion x0.6,True,True,clear_driver,0,region=Delhi & device=Mobile; region=Mumbai & device=Desktop
+double,1063,region=West Bengal & device=Mobile: conversion x0.5; region=Delhi & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Delhi & device=Mobile; region=West Bengal & device=Mobile
+double,1064,region=Tamil Nadu & device=Mobile: conversion x0.5; region=Bengaluru & device=Mobile: conversion x0.6,True,False,clear_driver,0,device=Mobile
+double,1065,region=Bengaluru & device=Desktop: conversion x0.5; region=Gujarat & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Bengaluru & device=Desktop; region=Gujarat & device=Mobile
+double,1066,region=Bengaluru & device=Mobile: conversion x0.5; region=Mumbai & device=Desktop: conversion x0.6,True,True,clear_driver,0,region=Bengaluru & device=Mobile; region=Mumbai & device=Desktop
+double,1067,region=Mumbai & device=Desktop: conversion x0.5; region=Bengaluru & device=Desktop: conversion x0.6,True,False,clear_driver,0,device=Desktop
+double,1068,region=Mumbai & device=Mobile: conversion x0.5; region=Tamil Nadu & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Mumbai & device=Mobile; region=Tamil Nadu & device=Mobile
+double,1069,region=Gujarat & device=Mobile: conversion x0.5; region=Delhi & device=Desktop: conversion x0.6,True,True,clear_driver,0,region=Delhi & device=Desktop; region=Gujarat & device=Mobile
+double,1070,region=Bengaluru & device=Desktop: conversion x0.5; region=Tamil Nadu & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Bengaluru & device=Desktop; region=Tamil Nadu & device=Mobile
+double,1071,region=West Bengal & device=Mobile: conversion x0.5; region=Gujarat & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=West Bengal & device=Mobile; region=Gujarat & device=Mobile
+double,1072,region=Bengaluru & device=Desktop: conversion x0.5; region=Tamil Nadu & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Bengaluru & device=Desktop; region=Tamil Nadu & device=Mobile
+double,1073,region=Delhi & device=Desktop: conversion x0.5; region=Mumbai & device=Desktop: conversion x0.6,True,False,clear_driver,0,device=Desktop
+double,1074,region=Tamil Nadu & device=Mobile: conversion x0.5; region=Mumbai & device=Desktop: conversion x0.6,True,True,clear_driver,0,region=Tamil Nadu & device=Mobile; region=Mumbai & device=Desktop
+double,1075,region=Gujarat & device=Mobile: conversion x0.5; region=Bengaluru & device=Desktop: conversion x0.6,True,True,clear_driver,0,region=Bengaluru & device=Desktop; region=Gujarat & device=Mobile
+double,1076,region=Gujarat & device=Mobile: conversion x0.5; region=Delhi & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Delhi & device=Mobile; region=Gujarat & device=Mobile
+double,1077,region=Gujarat & device=Mobile: conversion x0.5; region=West Bengal & device=Mobile: conversion x0.6,True,False,clear_driver,0,device=Mobile
+double,1078,region=Gujarat & device=Mobile: conversion x0.5; region=Bengaluru & device=Desktop: conversion x0.6,True,True,clear_driver,0,region=Bengaluru & device=Desktop; region=Gujarat & device=Mobile
+double,1079,region=Mumbai & device=Desktop: conversion x0.5; region=Tamil Nadu & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Mumbai & device=Desktop; region=Tamil Nadu & device=Mobile
+double,1080,region=Mumbai & device=Desktop: conversion x0.5; region=Bengaluru & device=Desktop: conversion x0.6,True,False,clear_driver,0,device=Desktop
+double,1081,region=Gujarat & device=Mobile: conversion x0.5; region=Mumbai & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Mumbai & device=Mobile; region=Gujarat & device=Mobile
+double,1082,region=Gujarat & device=Mobile: conversion x0.5; region=Bengaluru & device=Desktop: conversion x0.6,True,True,clear_driver,0,region=Bengaluru & device=Desktop; region=Gujarat & device=Mobile
+double,1083,region=West Bengal & device=Mobile: conversion x0.5; region=Gujarat & device=Mobile: conversion x0.6,True,False,clear_driver,0,device=Mobile
+double,1084,region=Mumbai & device=Desktop: conversion x0.5; region=Delhi & device=Desktop: conversion x0.6,True,False,clear_driver,0,device=Desktop
+double,1085,region=Mumbai & device=Desktop: conversion x0.5; region=West Bengal & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Mumbai & device=Desktop; region=West Bengal & device=Mobile
+double,1086,region=Bengaluru & device=Mobile: conversion x0.5; region=Gujarat & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Bengaluru & device=Mobile; region=Gujarat & device=Mobile
+double,1087,region=Bengaluru & device=Mobile: conversion x0.5; region=Mumbai & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Bengaluru & device=Mobile; region=Mumbai & device=Mobile
+double,1088,region=West Bengal & device=Mobile: conversion x0.5; region=Bengaluru & device=Mobile: conversion x0.6,True,False,clear_driver,0,device=Mobile
+double,1089,region=Delhi & device=Mobile: conversion x0.5; region=West Bengal & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Delhi & device=Mobile; region=West Bengal & device=Mobile
+double,1090,region=Mumbai & device=Mobile: conversion x0.5; region=Tamil Nadu & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Mumbai & device=Mobile; region=Tamil Nadu & device=Mobile
+double,1091,region=West Bengal & device=Mobile: conversion x0.5; region=Delhi & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Delhi & device=Mobile; region=West Bengal & device=Mobile
+double,1092,region=Delhi & device=Desktop: conversion x0.5; region=Tamil Nadu & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Delhi & device=Desktop; region=Tamil Nadu & device=Mobile
+double,1093,region=Delhi & device=Mobile: conversion x0.5; region=Mumbai & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Delhi & device=Mobile; region=Mumbai & device=Mobile
+double,1094,region=Delhi & device=Mobile: conversion x0.5; region=Tamil Nadu & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Delhi & device=Mobile; region=Tamil Nadu & device=Mobile
+double,1095,region=Delhi & device=Desktop: conversion x0.5; region=Bengaluru & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Bengaluru & device=Mobile; region=Delhi & device=Desktop
+double,1096,region=Tamil Nadu & device=Mobile: conversion x0.5; region=West Bengal & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Tamil Nadu & device=Mobile; region=West Bengal & device=Mobile
+double,1097,region=Gujarat & device=Mobile: conversion x0.5; region=Bengaluru & device=Desktop: conversion x0.6,True,True,clear_driver,0,region=Gujarat & device=Mobile; region=Bengaluru & device=Desktop
+double,1098,region=Delhi & device=Desktop: conversion x0.5; region=Bengaluru & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Bengaluru & device=Mobile; region=Delhi & device=Desktop
+double,1099,region=Delhi & device=Mobile: conversion x0.5; region=Mumbai & device=Mobile: conversion x0.6,True,True,clear_driver,0,region=Delhi & device=Mobile; region=Mumbai & device=Mobile
+mix_only,1000,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1001,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1002,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1003,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1004,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1005,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1006,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1007,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1008,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1009,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1010,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1011,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1012,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1013,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1014,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1015,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1016,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1017,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1018,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1019,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1020,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1021,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1022,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1023,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1024,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1025,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1026,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1027,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1028,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1029,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1030,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1031,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1032,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1033,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1034,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1035,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1036,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1037,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1038,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1039,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1040,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1041,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1042,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1043,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1044,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1045,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1046,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1047,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1048,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1049,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1050,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1051,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1052,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1053,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1054,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1055,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1056,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1057,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1058,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1059,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1060,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1061,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1062,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1063,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1064,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1065,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1066,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1067,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1068,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1069,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1070,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1071,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1072,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1073,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1074,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1075,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1076,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1077,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1078,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1079,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1080,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1081,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1082,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1083,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1084,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1085,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1086,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1087,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1088,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1089,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1090,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1091,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1092,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1093,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1094,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1095,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1096,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1097,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1098,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+mix_only,1099,channel=Social: visits x2.0,True,True,clear_driver,0,channel=Social
+noisy,1000,region=Gujarat & device=Mobile: conversion x0.65,True,True,offsetting_moves,0,region=Gujarat & device=Mobile
+noisy,1001,region=Gujarat & device=Mobile: conversion x0.65,True,True,offsetting_moves,0,region=Gujarat & device=Mobile
+noisy,1002,region=Tamil Nadu & device=Mobile: conversion x0.65,True,True,offsetting_moves,0,region=Tamil Nadu & device=Mobile
+noisy,1003,region=Mumbai & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Mumbai & device=Mobile
+noisy,1004,region=Delhi & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Delhi & device=Mobile
+noisy,1005,region=Gujarat & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Gujarat & device=Mobile
+noisy,1006,region=Delhi & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Delhi & device=Mobile
+noisy,1007,region=Mumbai & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Mumbai & device=Mobile
+noisy,1008,region=Delhi & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Delhi & device=Mobile
+noisy,1009,region=Delhi & device=Desktop: conversion x0.65,True,True,clear_driver,0,region=Delhi & device=Desktop
+noisy,1010,region=Bengaluru & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Bengaluru & device=Mobile
+noisy,1011,region=Mumbai & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Mumbai & device=Mobile
+noisy,1012,region=Gujarat & device=Mobile: conversion x0.65,True,True,offsetting_moves,0,region=Gujarat & device=Mobile
+noisy,1013,region=Gujarat & device=Mobile: conversion x0.65,True,True,offsetting_moves,0,region=Gujarat & device=Mobile
+noisy,1014,region=Bengaluru & device=Desktop: conversion x0.65,True,True,clear_driver,0,region=Bengaluru & device=Desktop
+noisy,1015,region=Bengaluru & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Bengaluru & device=Mobile
+noisy,1016,region=Bengaluru & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Bengaluru & device=Mobile
+noisy,1017,region=Gujarat & device=Mobile: conversion x0.65,True,True,offsetting_moves,0,region=Gujarat & device=Mobile
+noisy,1018,region=Gujarat & device=Mobile: conversion x0.65,True,True,offsetting_moves,0,region=Gujarat & device=Mobile
+noisy,1019,region=Mumbai & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Mumbai & device=Mobile
+noisy,1020,region=Bengaluru & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Bengaluru & device=Mobile
+noisy,1021,region=Bengaluru & device=Desktop: conversion x0.65,True,True,offsetting_moves,0,region=Bengaluru & device=Desktop
+noisy,1022,region=Bengaluru & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Bengaluru & device=Mobile
+noisy,1023,region=West Bengal & device=Mobile: conversion x0.65,True,True,offsetting_moves,0,region=West Bengal & device=Mobile
+noisy,1024,region=Gujarat & device=Mobile: conversion x0.65,True,True,offsetting_moves,0,region=Gujarat & device=Mobile
+noisy,1025,region=West Bengal & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=West Bengal & device=Mobile
+noisy,1026,region=Delhi & device=Desktop: conversion x0.65,True,True,clear_driver,0,region=Delhi & device=Desktop
+noisy,1027,region=Bengaluru & device=Desktop: conversion x0.65,True,True,clear_driver,0,region=Bengaluru & device=Desktop
+noisy,1028,region=West Bengal & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=West Bengal & device=Mobile
+noisy,1029,region=West Bengal & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=West Bengal & device=Mobile
+noisy,1030,region=West Bengal & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=West Bengal & device=Mobile
+noisy,1031,region=Delhi & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Delhi & device=Mobile
+noisy,1032,region=West Bengal & device=Mobile: conversion x0.65,True,True,offsetting_moves,0,region=West Bengal & device=Mobile
+noisy,1033,region=Delhi & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Delhi & device=Mobile
+noisy,1034,region=Tamil Nadu & device=Mobile: conversion x0.65,True,True,offsetting_moves,0,region=Tamil Nadu & device=Mobile
+noisy,1035,region=Mumbai & device=Desktop: conversion x0.65,True,True,clear_driver,0,region=Mumbai & device=Desktop
+noisy,1036,region=Mumbai & device=Desktop: conversion x0.65,True,True,clear_driver,0,region=Mumbai & device=Desktop
+noisy,1037,region=Mumbai & device=Desktop: conversion x0.65,True,True,clear_driver,0,region=Mumbai & device=Desktop
+noisy,1038,region=Tamil Nadu & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Tamil Nadu & device=Mobile
+noisy,1039,region=Tamil Nadu & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Tamil Nadu & device=Mobile
+noisy,1040,region=Bengaluru & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Bengaluru & device=Mobile
+noisy,1041,region=West Bengal & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=West Bengal & device=Mobile
+noisy,1042,region=Bengaluru & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Bengaluru & device=Mobile
+noisy,1043,region=Gujarat & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Gujarat & device=Mobile
+noisy,1044,region=West Bengal & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=West Bengal & device=Mobile
+noisy,1045,region=Delhi & device=Desktop: conversion x0.65,True,True,offsetting_moves,0,region=Delhi & device=Desktop
+noisy,1046,region=Mumbai & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Mumbai & device=Mobile
+noisy,1047,region=Delhi & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Delhi & device=Mobile
+noisy,1048,region=Bengaluru & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Bengaluru & device=Mobile
+noisy,1049,region=West Bengal & device=Mobile: conversion x0.65,True,True,offsetting_moves,0,region=West Bengal & device=Mobile
+noisy,1050,region=Mumbai & device=Desktop: conversion x0.65,True,True,clear_driver,0,region=Mumbai & device=Desktop
+noisy,1051,region=West Bengal & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=West Bengal & device=Mobile
+noisy,1052,region=Mumbai & device=Desktop: conversion x0.65,True,True,clear_driver,0,region=Mumbai & device=Desktop
+noisy,1053,region=Delhi & device=Desktop: conversion x0.65,True,True,clear_driver,0,region=Delhi & device=Desktop
+noisy,1054,region=Bengaluru & device=Desktop: conversion x0.65,True,True,clear_driver,0,region=Bengaluru & device=Desktop
+noisy,1055,region=Delhi & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Delhi & device=Mobile
+noisy,1056,region=Gujarat & device=Mobile: conversion x0.65,True,True,offsetting_moves,0,region=Gujarat & device=Mobile
+noisy,1057,region=Mumbai & device=Desktop: conversion x0.65,True,True,clear_driver,0,region=Mumbai & device=Desktop
+noisy,1058,region=Mumbai & device=Desktop: conversion x0.65,True,True,clear_driver,0,region=Mumbai & device=Desktop
+noisy,1059,region=Tamil Nadu & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Tamil Nadu & device=Mobile
+noisy,1060,region=Gujarat & device=Mobile: conversion x0.65,True,True,offsetting_moves,0,region=Gujarat & device=Mobile
+noisy,1061,region=Mumbai & device=Desktop: conversion x0.65,True,True,clear_driver,0,region=Mumbai & device=Desktop
+noisy,1062,region=Delhi & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Delhi & device=Mobile
+noisy,1063,region=West Bengal & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=West Bengal & device=Mobile
+noisy,1064,region=Tamil Nadu & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Tamil Nadu & device=Mobile
+noisy,1065,region=Bengaluru & device=Desktop: conversion x0.65,True,True,clear_driver,0,region=Bengaluru & device=Desktop
+noisy,1066,region=Bengaluru & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Bengaluru & device=Mobile
+noisy,1067,region=Mumbai & device=Desktop: conversion x0.65,True,True,clear_driver,0,region=Mumbai & device=Desktop
+noisy,1068,region=Mumbai & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Mumbai & device=Mobile
+noisy,1069,region=Gujarat & device=Mobile: conversion x0.65,True,True,offsetting_moves,0,region=Gujarat & device=Mobile
+noisy,1070,region=Bengaluru & device=Desktop: conversion x0.65,True,True,clear_driver,0,region=Bengaluru & device=Desktop
+noisy,1071,region=West Bengal & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=West Bengal & device=Mobile
+noisy,1072,region=Bengaluru & device=Desktop: conversion x0.65,True,True,clear_driver,0,region=Bengaluru & device=Desktop
+noisy,1073,region=Delhi & device=Desktop: conversion x0.65,True,True,clear_driver,0,region=Delhi & device=Desktop
+noisy,1074,region=Tamil Nadu & device=Mobile: conversion x0.65,True,True,offsetting_moves,0,region=Tamil Nadu & device=Mobile
+noisy,1075,region=Gujarat & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Gujarat & device=Mobile
+noisy,1076,region=Gujarat & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Gujarat & device=Mobile
+noisy,1077,region=Gujarat & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Gujarat & device=Mobile
+noisy,1078,region=Gujarat & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Gujarat & device=Mobile
+noisy,1079,region=Mumbai & device=Desktop: conversion x0.65,True,True,offsetting_moves,0,region=Mumbai & device=Desktop
+noisy,1080,region=Mumbai & device=Desktop: conversion x0.65,True,True,clear_driver,0,region=Mumbai & device=Desktop
+noisy,1081,region=Gujarat & device=Mobile: conversion x0.65,True,True,offsetting_moves,0,region=Gujarat & device=Mobile
+noisy,1082,region=Gujarat & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Gujarat & device=Mobile
+noisy,1083,region=West Bengal & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=West Bengal & device=Mobile
+noisy,1084,region=Mumbai & device=Desktop: conversion x0.65,True,True,clear_driver,0,region=Mumbai & device=Desktop
+noisy,1085,region=Mumbai & device=Desktop: conversion x0.65,True,True,clear_driver,0,region=Mumbai & device=Desktop
+noisy,1086,region=Bengaluru & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Bengaluru & device=Mobile
+noisy,1087,region=Bengaluru & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Bengaluru & device=Mobile
+noisy,1088,region=West Bengal & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=West Bengal & device=Mobile
+noisy,1089,region=Delhi & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Delhi & device=Mobile
+noisy,1090,region=Mumbai & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Mumbai & device=Mobile
+noisy,1091,region=West Bengal & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=West Bengal & device=Mobile
+noisy,1092,region=Delhi & device=Desktop: conversion x0.65,True,True,clear_driver,0,region=Delhi & device=Desktop
+noisy,1093,region=Delhi & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Delhi & device=Mobile
+noisy,1094,region=Delhi & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Delhi & device=Mobile
+noisy,1095,region=Delhi & device=Desktop: conversion x0.65,True,True,clear_driver,0,region=Delhi & device=Desktop
+noisy,1096,region=Tamil Nadu & device=Mobile: conversion x0.65,True,True,offsetting_moves,0,region=Tamil Nadu & device=Mobile
+noisy,1097,region=Gujarat & device=Mobile: conversion x0.65,True,True,offsetting_moves,0,region=Gujarat & device=Mobile
+noisy,1098,region=Delhi & device=Desktop: conversion x0.65,True,True,clear_driver,0,region=Delhi & device=Desktop
+noisy,1099,region=Delhi & device=Mobile: conversion x0.65,True,True,clear_driver,0,region=Delhi & device=Mobile
+none,1000,nothing,True,,no_clear_driver,0,no findings
+none,1001,nothing,True,,no_clear_driver,0,no findings
+none,1002,nothing,True,,negligible_change,0,no findings
+none,1003,nothing,True,,negligible_change,0,no findings
+none,1004,nothing,True,,no_clear_driver,0,no findings
+none,1005,nothing,True,,no_clear_driver,0,no findings
+none,1006,nothing,True,,no_clear_driver,0,no findings
+none,1007,nothing,True,,no_clear_driver,0,no findings
+none,1008,nothing,True,,no_clear_driver,0,no findings
+none,1009,nothing,True,,no_clear_driver,0,no findings
+none,1010,nothing,True,,negligible_change,0,no findings
+none,1011,nothing,True,,no_clear_driver,0,no findings
+none,1012,nothing,True,,no_clear_driver,0,no findings
+none,1013,nothing,True,,no_clear_driver,0,no findings
+none,1014,nothing,True,,no_clear_driver,0,no findings
+none,1015,nothing,True,,no_clear_driver,0,no findings
+none,1016,nothing,True,,no_clear_driver,0,no findings
+none,1017,nothing,True,,no_clear_driver,0,no findings
+none,1018,nothing,True,,no_clear_driver,0,no findings
+none,1019,nothing,True,,negligible_change,0,no findings
+none,1020,nothing,True,,no_clear_driver,0,no findings
+none,1021,nothing,True,,no_clear_driver,0,no findings
+none,1022,nothing,True,,no_clear_driver,0,no findings
+none,1023,nothing,True,,no_clear_driver,0,no findings
+none,1024,nothing,True,,no_clear_driver,0,no findings
+none,1025,nothing,True,,no_clear_driver,0,no findings
+none,1026,nothing,True,,no_clear_driver,0,no findings
+none,1027,nothing,True,,no_clear_driver,0,no findings
+none,1028,nothing,True,,no_clear_driver,0,no findings
+none,1029,nothing,True,,no_clear_driver,0,no findings
+none,1030,nothing,True,,no_clear_driver,0,no findings
+none,1031,nothing,True,,negligible_change,0,no findings
+none,1032,nothing,True,,no_clear_driver,0,no findings
+none,1033,nothing,True,,no_clear_driver,0,no findings
+none,1034,nothing,True,,no_clear_driver,0,no findings
+none,1035,nothing,True,,no_clear_driver,0,no findings
+none,1036,nothing,True,,no_clear_driver,0,no findings
+none,1037,nothing,True,,no_clear_driver,0,no findings
+none,1038,nothing,True,,no_clear_driver,0,no findings
+none,1039,nothing,True,,no_clear_driver,0,no findings
+none,1040,nothing,True,,no_clear_driver,0,no findings
+none,1041,nothing,True,,no_clear_driver,0,no findings
+none,1042,nothing,True,,no_clear_driver,0,no findings
+none,1043,nothing,True,,no_clear_driver,0,no findings
+none,1044,nothing,True,,no_clear_driver,0,no findings
+none,1045,nothing,True,,no_clear_driver,0,no findings
+none,1046,nothing,True,,no_clear_driver,0,no findings
+none,1047,nothing,True,,no_clear_driver,0,no findings
+none,1048,nothing,True,,no_clear_driver,0,no findings
+none,1049,nothing,True,,no_clear_driver,0,no findings
+none,1050,nothing,True,,no_clear_driver,0,no findings
+none,1051,nothing,True,,no_clear_driver,0,no findings
+none,1052,nothing,True,,no_clear_driver,0,no findings
+none,1053,nothing,True,,no_clear_driver,0,no findings
+none,1054,nothing,True,,negligible_change,0,no findings
+none,1055,nothing,True,,no_clear_driver,0,no findings
+none,1056,nothing,True,,no_clear_driver,0,no findings
+none,1057,nothing,True,,no_clear_driver,0,no findings
+none,1058,nothing,True,,no_clear_driver,0,no findings
+none,1059,nothing,True,,no_clear_driver,0,no findings
+none,1060,nothing,True,,no_clear_driver,0,no findings
+none,1061,nothing,True,,no_clear_driver,0,no findings
+none,1062,nothing,True,,negligible_change,0,no findings
+none,1063,nothing,True,,negligible_change,0,no findings
+none,1064,nothing,True,,negligible_change,0,no findings
+none,1065,nothing,True,,no_clear_driver,0,no findings
+none,1066,nothing,True,,no_clear_driver,0,no findings
+none,1067,nothing,True,,no_clear_driver,0,no findings
+none,1068,nothing,True,,no_clear_driver,0,no findings
+none,1069,nothing,True,,no_clear_driver,0,no findings
+none,1070,nothing,True,,no_clear_driver,0,no findings
+none,1071,nothing,True,,no_clear_driver,0,no findings
+none,1072,nothing,True,,negligible_change,0,no findings
+none,1073,nothing,True,,no_clear_driver,0,no findings
+none,1074,nothing,True,,no_clear_driver,0,no findings
+none,1075,nothing,True,,no_clear_driver,0,no findings
+none,1076,nothing,True,,no_clear_driver,0,no findings
+none,1077,nothing,True,,negligible_change,0,no findings
+none,1078,nothing,True,,no_clear_driver,0,no findings
+none,1079,nothing,True,,no_clear_driver,0,no findings
+none,1080,nothing,True,,no_clear_driver,0,no findings
+none,1081,nothing,True,,no_clear_driver,0,no findings
+none,1082,nothing,True,,no_clear_driver,0,no findings
+none,1083,nothing,True,,no_clear_driver,0,no findings
+none,1084,nothing,True,,negligible_change,0,no findings
+none,1085,nothing,True,,no_clear_driver,0,no findings
+none,1086,nothing,True,,no_clear_driver,0,no findings
+none,1087,nothing,True,,no_clear_driver,0,no findings
+none,1088,nothing,True,,no_clear_driver,0,no findings
+none,1089,nothing,True,,no_clear_driver,0,no findings
+none,1090,nothing,True,,no_clear_driver,0,no findings
+none,1091,nothing,True,,no_clear_driver,0,no findings
+none,1092,nothing,True,,no_clear_driver,0,no findings
+none,1093,nothing,True,,no_clear_driver,0,no findings
+none,1094,nothing,True,,no_clear_driver,0,no findings
+none,1095,nothing,True,,no_clear_driver,0,no findings
+none,1096,nothing,True,,no_clear_driver,0,no findings
+none,1097,nothing,True,,no_clear_driver,0,no findings
+none,1098,nothing,True,,no_clear_driver,0,no findings
+none,1099,nothing,True,,negligible_change,0,no findings
+budget_miss,1000,region=Gujarat & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Gujarat & device=Mobile
+budget_miss,1001,region=Gujarat & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Gujarat & device=Mobile
+budget_miss,1002,region=Tamil Nadu & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Tamil Nadu & device=Mobile
+budget_miss,1003,region=Mumbai & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Mobile
+budget_miss,1004,region=Delhi & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Mobile
+budget_miss,1005,region=Gujarat & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Gujarat & device=Mobile
+budget_miss,1006,region=Delhi & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Mobile
+budget_miss,1007,region=Mumbai & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Mobile
+budget_miss,1008,region=Delhi & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Mobile
+budget_miss,1009,region=Delhi & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Desktop
+budget_miss,1010,region=Bengaluru & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Bengaluru & device=Mobile
+budget_miss,1011,region=Mumbai & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Mobile
+budget_miss,1012,region=Gujarat & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Gujarat & device=Mobile
+budget_miss,1013,region=Gujarat & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Gujarat & device=Mobile
+budget_miss,1014,region=Bengaluru & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Bengaluru & device=Desktop
+budget_miss,1015,region=Bengaluru & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Bengaluru & device=Mobile
+budget_miss,1016,region=Bengaluru & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Bengaluru & device=Mobile
+budget_miss,1017,region=Gujarat & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Gujarat & device=Mobile
+budget_miss,1018,region=Gujarat & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Gujarat & device=Mobile
+budget_miss,1019,region=Mumbai & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Mobile
+budget_miss,1020,region=Bengaluru & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Bengaluru & device=Mobile
+budget_miss,1021,region=Bengaluru & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Bengaluru & device=Desktop
+budget_miss,1022,region=Bengaluru & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Bengaluru & device=Mobile
+budget_miss,1023,region=West Bengal & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=West Bengal & device=Mobile
+budget_miss,1024,region=Gujarat & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Gujarat & device=Mobile
+budget_miss,1025,region=West Bengal & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=West Bengal & device=Mobile
+budget_miss,1026,region=Delhi & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Desktop
+budget_miss,1027,region=Bengaluru & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Bengaluru & device=Desktop
+budget_miss,1028,region=West Bengal & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=West Bengal & device=Mobile
+budget_miss,1029,region=West Bengal & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=West Bengal & device=Mobile
+budget_miss,1030,region=West Bengal & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=West Bengal & device=Mobile
+budget_miss,1031,region=Delhi & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Mobile
+budget_miss,1032,region=West Bengal & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=West Bengal & device=Mobile
+budget_miss,1033,region=Delhi & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Mobile
+budget_miss,1034,region=Tamil Nadu & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Tamil Nadu & device=Mobile
+budget_miss,1035,region=Mumbai & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Desktop
+budget_miss,1036,region=Mumbai & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Desktop
+budget_miss,1037,region=Mumbai & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Desktop
+budget_miss,1038,region=Tamil Nadu & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Tamil Nadu & device=Mobile
+budget_miss,1039,region=Tamil Nadu & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Tamil Nadu & device=Mobile
+budget_miss,1040,region=Bengaluru & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Bengaluru & device=Mobile
+budget_miss,1041,region=West Bengal & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=West Bengal & device=Mobile
+budget_miss,1042,region=Bengaluru & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Bengaluru & device=Mobile
+budget_miss,1043,region=Gujarat & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Gujarat & device=Mobile
+budget_miss,1044,region=West Bengal & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=West Bengal & device=Mobile
+budget_miss,1045,region=Delhi & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Desktop
+budget_miss,1046,region=Mumbai & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Mobile
+budget_miss,1047,region=Delhi & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Mobile
+budget_miss,1048,region=Bengaluru & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Bengaluru & device=Mobile
+budget_miss,1049,region=West Bengal & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=West Bengal & device=Mobile
+budget_miss,1050,region=Mumbai & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Desktop
+budget_miss,1051,region=West Bengal & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=West Bengal & device=Mobile
+budget_miss,1052,region=Mumbai & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Desktop
+budget_miss,1053,region=Delhi & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Desktop
+budget_miss,1054,region=Bengaluru & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Bengaluru & device=Desktop
+budget_miss,1055,region=Delhi & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Mobile
+budget_miss,1056,region=Gujarat & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Gujarat & device=Mobile
+budget_miss,1057,region=Mumbai & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Desktop
+budget_miss,1058,region=Mumbai & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Desktop
+budget_miss,1059,region=Tamil Nadu & device=Mobile: conversion x0.5,True,True,clear_driver,1,region=Tamil Nadu & device=Mobile; region=West Bengal & channel=Email
+budget_miss,1060,region=Gujarat & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Gujarat & device=Mobile
+budget_miss,1061,region=Mumbai & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Desktop
+budget_miss,1062,region=Delhi & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Mobile
+budget_miss,1063,region=West Bengal & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=West Bengal & device=Mobile
+budget_miss,1064,region=Tamil Nadu & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Tamil Nadu & device=Mobile
+budget_miss,1065,region=Bengaluru & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Bengaluru & device=Desktop
+budget_miss,1066,region=Bengaluru & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Bengaluru & device=Mobile
+budget_miss,1067,region=Mumbai & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Desktop
+budget_miss,1068,region=Mumbai & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Mobile
+budget_miss,1069,region=Gujarat & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Gujarat & device=Mobile
+budget_miss,1070,region=Bengaluru & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Bengaluru & device=Desktop
+budget_miss,1071,region=West Bengal & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=West Bengal & device=Mobile
+budget_miss,1072,region=Bengaluru & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Bengaluru & device=Desktop
+budget_miss,1073,region=Delhi & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Desktop
+budget_miss,1074,region=Tamil Nadu & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Tamil Nadu & device=Mobile
+budget_miss,1075,region=Gujarat & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Gujarat & device=Mobile
+budget_miss,1076,region=Gujarat & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Gujarat & device=Mobile
+budget_miss,1077,region=Gujarat & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Gujarat & device=Mobile
+budget_miss,1078,region=Gujarat & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Gujarat & device=Mobile
+budget_miss,1079,region=Mumbai & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Desktop
+budget_miss,1080,region=Mumbai & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Desktop
+budget_miss,1081,region=Gujarat & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Gujarat & device=Mobile
+budget_miss,1082,region=Gujarat & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Gujarat & device=Mobile
+budget_miss,1083,region=West Bengal & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=West Bengal & device=Mobile
+budget_miss,1084,region=Mumbai & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Desktop
+budget_miss,1085,region=Mumbai & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Desktop
+budget_miss,1086,region=Bengaluru & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Bengaluru & device=Mobile
+budget_miss,1087,region=Bengaluru & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Bengaluru & device=Mobile
+budget_miss,1088,region=West Bengal & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=West Bengal & device=Mobile
+budget_miss,1089,region=Delhi & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Mobile
+budget_miss,1090,region=Mumbai & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Mumbai & device=Mobile
+budget_miss,1091,region=West Bengal & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=West Bengal & device=Mobile
+budget_miss,1092,region=Delhi & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Desktop
+budget_miss,1093,region=Delhi & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Mobile
+budget_miss,1094,region=Delhi & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Mobile
+budget_miss,1095,region=Delhi & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Desktop
+budget_miss,1096,region=Tamil Nadu & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Tamil Nadu & device=Mobile
+budget_miss,1097,region=Gujarat & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Gujarat & device=Mobile
+budget_miss,1098,region=Delhi & device=Desktop: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Desktop
+budget_miss,1099,region=Delhi & device=Mobile: conversion x0.5,True,True,clear_driver,0,region=Delhi & device=Mobile
+pvm,1000,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,060,722); mix top=Grocery"
+pvm,1001,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,780,516); mix top=Grocery"
+pvm,1002,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,965,170); mix top=Grocery"
+pvm,1003,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,952,676); mix top=Grocery"
+pvm,1004,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,006,328); mix top=Grocery"
+pvm,1005,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,932,139); mix top=Grocery"
+pvm,1006,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,837,712); mix top=Grocery"
+pvm,1007,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,910,803); mix top=Grocery"
+pvm,1008,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,190,629); mix top=Grocery"
+pvm,1009,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,940,482); mix top=Grocery"
+pvm,1010,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,888,239); mix top=Grocery"
+pvm,1011,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,061,143); mix top=Grocery"
+pvm,1012,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,171,223); mix top=Grocery"
+pvm,1013,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,060,273); mix top=Grocery"
+pvm,1014,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,899,537); mix top=Grocery"
+pvm,1015,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,007,310); mix top=Grocery"
+pvm,1016,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,868,669); mix top=Grocery"
+pvm,1017,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,206,305); mix top=Grocery"
+pvm,1018,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,860,306); mix top=Grocery"
+pvm,1019,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,145,138); mix top=Grocery"
+pvm,1020,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,924,240); mix top=Grocery"
+pvm,1021,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,042,831); mix top=Grocery"
+pvm,1022,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,889,519); mix top=Grocery"
+pvm,1023,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,213,039); mix top=Grocery"
+pvm,1024,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,372,290); mix top=Grocery"
+pvm,1025,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,664,881); mix top=Grocery"
+pvm,1026,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,022,832); mix top=Grocery"
+pvm,1027,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,090,545); mix top=Grocery"
+pvm,1028,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,045,087); mix top=Grocery"
+pvm,1029,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,239,770); mix top=Grocery"
+pvm,1030,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,862,898); mix top=Grocery"
+pvm,1031,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,902,441); mix top=Grocery"
+pvm,1032,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,785,252); mix top=Grocery"
+pvm,1033,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,707,035); mix top=Grocery"
+pvm,1034,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,759,977); mix top=Grocery"
+pvm,1035,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,888,463); mix top=Grocery"
+pvm,1036,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,042,676); mix top=Grocery"
+pvm,1037,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,951,345); mix top=Grocery"
+pvm,1038,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,959,927); mix top=Grocery"
+pvm,1039,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,003,595); mix top=Grocery"
+pvm,1040,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,964,268); mix top=Grocery"
+pvm,1041,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,041,380); mix top=Grocery"
+pvm,1042,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,038,512); mix top=Grocery"
+pvm,1043,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,147,278); mix top=Grocery"
+pvm,1044,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,775,685); mix top=Grocery"
+pvm,1045,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,854,811); mix top=Grocery"
+pvm,1046,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,254,336); mix top=Grocery"
+pvm,1047,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,903,580); mix top=Grocery"
+pvm,1048,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,134,348); mix top=Grocery"
+pvm,1049,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,900,397); mix top=Grocery"
+pvm,1050,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,019,854); mix top=Grocery"
+pvm,1051,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,917,830); mix top=Grocery"
+pvm,1052,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,200,211); mix top=Grocery"
+pvm,1053,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,855,517); mix top=Grocery"
+pvm,1054,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,849,463); mix top=Grocery"
+pvm,1055,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,875,354); mix top=Grocery"
+pvm,1056,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,994,590); mix top=Grocery"
+pvm,1057,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,776,852); mix top=Grocery"
+pvm,1058,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,917,112); mix top=Grocery"
+pvm,1059,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,819,097); mix top=Grocery"
+pvm,1060,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,931,579); mix top=Grocery"
+pvm,1061,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,913,863); mix top=Grocery"
+pvm,1062,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,959,842); mix top=Grocery"
+pvm,1063,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,854,003); mix top=Grocery"
+pvm,1064,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,012,928); mix top=Grocery"
+pvm,1065,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,048,125); mix top=Grocery"
+pvm,1066,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,966,217); mix top=Grocery"
+pvm,1067,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,883,822); mix top=Grocery"
+pvm,1068,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,825,792); mix top=Grocery"
+pvm,1069,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,973,139); mix top=Grocery"
+pvm,1070,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,717,039); mix top=Grocery"
+pvm,1071,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,887,781); mix top=Grocery"
+pvm,1072,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,935,892); mix top=Grocery"
+pvm,1073,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,170,572); mix top=Grocery"
+pvm,1074,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,023,259); mix top=Grocery"
+pvm,1075,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,052,272); mix top=Grocery"
+pvm,1076,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,042,879); mix top=Grocery"
+pvm,1077,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,947,634); mix top=Grocery"
+pvm,1078,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,029,822); mix top=Grocery"
+pvm,1079,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,000,329); mix top=Grocery"
+pvm,1080,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,916,373); mix top=Grocery"
+pvm,1081,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,959,051); mix top=Grocery"
+pvm,1082,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,059,118); mix top=Grocery"
+pvm,1083,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,391,608); mix top=Grocery"
+pvm,1084,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,787,233); mix top=Grocery"
+pvm,1085,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,774,258); mix top=Grocery"
+pvm,1086,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,147,457); mix top=Grocery"
+pvm,1087,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,822,311); mix top=Grocery"
+pvm,1088,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,944,956); mix top=Grocery"
+pvm,1089,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,009,148); mix top=Grocery"
+pvm,1090,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,831,827); mix top=Grocery"
+pvm,1091,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,971,598); mix top=Grocery"
+pvm,1092,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,058,429); mix top=Grocery"
+pvm,1093,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,092,241); mix top=Grocery"
+pvm,1094,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,109,088); mix top=Grocery"
+pvm,1095,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,973,377); mix top=Grocery"
+pvm,1096,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,984,129); mix top=Grocery"
+pvm,1097,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 2,088,509); mix top=Grocery"
+pvm,1098,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,990,564); mix top=Grocery"
+pvm,1099,category=Grocery: visits x1.5; category=Fashion: aov x1.1,True,,,0,"price top=Fashion (interval low 1,834,115); mix top=Grocery"
+cost_rise,1000,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,717,255); margin: category=Electronics"
+cost_rise,1001,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,689,452); margin: category=Electronics"
+cost_rise,1002,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,600,111); margin: category=Electronics"
+cost_rise,1003,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,594,013); margin: category=Electronics"
+cost_rise,1004,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,712,102); margin: category=Electronics"
+cost_rise,1005,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,817,348); margin: category=Electronics"
+cost_rise,1006,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,623,539); margin: category=Electronics"
+cost_rise,1007,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,730,016); margin: category=Electronics"
+cost_rise,1008,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,593,508); margin: category=Electronics"
+cost_rise,1009,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,567,712); margin: category=Electronics"
+cost_rise,1010,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,666,308); margin: category=Electronics"
+cost_rise,1011,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,665,564); margin: category=Electronics"
+cost_rise,1012,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,702,376); margin: category=Electronics"
+cost_rise,1013,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,733,708); margin: category=Electronics"
+cost_rise,1014,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,662,740); margin: category=Electronics"
+cost_rise,1015,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,621,055); margin: category=Electronics"
+cost_rise,1016,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,667,218); margin: category=Electronics"
+cost_rise,1017,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,692,106); margin: category=Electronics"
+cost_rise,1018,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,607,993); margin: category=Electronics"
+cost_rise,1019,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,676,490); margin: category=Electronics"
+cost_rise,1020,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,714,496); margin: category=Electronics"
+cost_rise,1021,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,696,949); margin: category=Electronics"
+cost_rise,1022,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,629,225); margin: category=Electronics"
+cost_rise,1023,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,733,406); margin: category=Electronics"
+cost_rise,1024,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,719,094); margin: category=Electronics"
+cost_rise,1025,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,666,209); margin: category=Electronics"
+cost_rise,1026,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,606,307); margin: category=Electronics"
+cost_rise,1027,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,540,419); margin: category=Electronics"
+cost_rise,1028,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,668,871); margin: category=Electronics"
+cost_rise,1029,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,720,629); margin: category=Electronics"
+cost_rise,1030,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,592,720); margin: category=Electronics"
+cost_rise,1031,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,662,431); margin: category=Electronics"
+cost_rise,1032,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,816,284); margin: category=Electronics"
+cost_rise,1033,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,662,312); margin: category=Electronics"
+cost_rise,1034,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,791,892); margin: category=Electronics"
+cost_rise,1035,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,602,719); margin: category=Electronics"
+cost_rise,1036,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,695,987); margin: category=Electronics"
+cost_rise,1037,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,571,178); margin: category=Electronics"
+cost_rise,1038,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,669,984); margin: category=Electronics"
+cost_rise,1039,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,480,351); margin: category=Electronics"
+cost_rise,1040,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,637,363); margin: category=Electronics"
+cost_rise,1041,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,708,519); margin: category=Electronics"
+cost_rise,1042,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,671,009); margin: category=Electronics"
+cost_rise,1043,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,769,726); margin: category=Electronics"
+cost_rise,1044,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,583,075); margin: category=Electronics"
+cost_rise,1045,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,711,386); margin: category=Electronics"
+cost_rise,1046,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,541,027); margin: category=Electronics"
+cost_rise,1047,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,621,509); margin: category=Electronics"
+cost_rise,1048,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,719,134); margin: category=Electronics"
+cost_rise,1049,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,673,481); margin: category=Electronics"
+cost_rise,1050,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,684,175); margin: category=Electronics"
+cost_rise,1051,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,575,584); margin: category=Electronics"
+cost_rise,1052,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,646,859); margin: category=Electronics"
+cost_rise,1053,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,694,569); margin: category=Electronics"
+cost_rise,1054,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,721,561); margin: category=Electronics"
+cost_rise,1055,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,629,968); margin: category=Electronics"
+cost_rise,1056,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,734,321); margin: category=Electronics"
+cost_rise,1057,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,619,721); margin: category=Electronics"
+cost_rise,1058,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,635,325); margin: category=Electronics"
+cost_rise,1059,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,512,224); margin: category=Electronics"
+cost_rise,1060,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,715,589); margin: category=Electronics"
+cost_rise,1061,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,662,919); margin: category=Electronics"
+cost_rise,1062,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,717,959); margin: category=Electronics"
+cost_rise,1063,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,647,788); margin: category=Electronics"
+cost_rise,1064,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,585,289); margin: category=Electronics"
+cost_rise,1065,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,776,520); margin: category=Electronics"
+cost_rise,1066,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,580,407); margin: category=Electronics"
+cost_rise,1067,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,672,306); margin: category=Electronics"
+cost_rise,1068,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,683,192); margin: category=Electronics"
+cost_rise,1069,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,636,087); margin: category=Electronics"
+cost_rise,1070,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,706,868); margin: category=Electronics"
+cost_rise,1071,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,558,646); margin: category=Electronics"
+cost_rise,1072,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,758,238); margin: category=Electronics"
+cost_rise,1073,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,497,492); margin: category=Electronics"
+cost_rise,1074,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,735,657); margin: category=Electronics"
+cost_rise,1075,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,692,155); margin: category=Electronics"
+cost_rise,1076,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,606,640); margin: category=Electronics"
+cost_rise,1077,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,668,517); margin: category=Electronics"
+cost_rise,1078,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,610,402); margin: category=Electronics"
+cost_rise,1079,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,626,381); margin: category=Electronics"
+cost_rise,1080,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,577,335); margin: category=Electronics"
+cost_rise,1081,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,778,731); margin: category=Electronics"
+cost_rise,1082,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,582,231); margin: category=Electronics"
+cost_rise,1083,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,744,106); margin: category=Electronics"
+cost_rise,1084,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,608,977); margin: category=Electronics"
+cost_rise,1085,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,744,105); margin: category=Electronics"
+cost_rise,1086,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,627,017); margin: category=Electronics"
+cost_rise,1087,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,618,768); margin: category=Electronics"
+cost_rise,1088,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,528,300); margin: category=Electronics"
+cost_rise,1089,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,737,958); margin: category=Electronics"
+cost_rise,1090,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,723,972); margin: category=Electronics"
+cost_rise,1091,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,589,408); margin: category=Electronics"
+cost_rise,1092,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,762,900); margin: category=Electronics"
+cost_rise,1093,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,512,257); margin: category=Electronics"
+cost_rise,1094,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,646,409); margin: category=Electronics"
+cost_rise,1095,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,639,163); margin: category=Electronics"
+cost_rise,1096,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,686,743); margin: category=Electronics"
+cost_rise,1097,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,528,758); margin: category=Electronics"
+cost_rise,1098,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,697,121); margin: category=Electronics"
+cost_rise,1099,category=Electronics: cost x1.12,True,,clear_driver,0,"cost top=Electronics (interval high -4,565,952); margin: category=Electronics"
+share_loss,1000,region=Tamil Nadu: visits x0.7,True,,clear_driver,0,"share top=Tamil Nadu (interval high -3,987,035); ratio: region=Tamil Nadu"
+share_loss,1001,region=Tamil Nadu: visits x0.7,True,,clear_driver,0,"share top=Tamil Nadu (interval high -3,460,194); ratio: region=Tamil Nadu"
+share_loss,1002,region=Tamil Nadu: visits x0.7,True,,clear_driver,0,"share top=Tamil Nadu (interval high -3,857,626); ratio: region=Tamil Nadu"
+share_loss,1003,region=Delhi: visits x0.7,True,,clear_driver,0,"share top=Delhi (interval high -6,104,249); ratio: region=Delhi"
+share_loss,1004,region=Delhi: visits x0.7,True,,clear_driver,0,"share top=Delhi (interval high -6,769,320); ratio: region=Delhi"
+share_loss,1005,region=Tamil Nadu: visits x0.7,True,,clear_driver,0,"share top=Tamil Nadu (interval high -2,608,303); ratio: region=Tamil Nadu"
+share_loss,1006,region=Delhi: visits x0.7,True,,clear_driver,0,"share top=Delhi (interval high -6,619,819); ratio: region=Delhi"
+share_loss,1007,region=Mumbai: visits x0.7,True,,clear_driver,0,"share top=Mumbai (interval high -6,735,492); ratio: region=Mumbai"
+share_loss,1008,region=Delhi: visits x0.7,True,,clear_driver,0,"share top=Delhi (interval high -6,596,702); ratio: region=Delhi"
+share_loss,1009,region=Delhi: visits x0.7,True,,clear_driver,0,"share top=Delhi (interval high -5,338,259); ratio: region=Delhi"
+share_loss,1010,region=Mumbai: visits x0.7,True,,clear_driver,0,"share top=Mumbai (interval high -6,688,295); ratio: region=Mumbai"
+share_loss,1011,region=Delhi: visits x0.7,True,,clear_driver,0,"share top=Delhi (interval high -6,472,468); ratio: region=Delhi"
+share_loss,1012,region=Tamil Nadu: visits x0.7,True,,clear_driver,0,"share top=Tamil Nadu (interval high -3,388,747); ratio: region=Tamil Nadu"
+share_loss,1013,region=Tamil Nadu: visits x0.7,True,,clear_driver,0,"share top=Tamil Nadu (interval high -4,746,957); ratio: region=Tamil Nadu"
+share_loss,1014,region=Bengaluru: visits x0.7,True,,clear_driver,0,"share top=Bengaluru (interval high -6,222,763); ratio: region=Bengaluru"
+share_loss,1015,region=Bengaluru: visits x0.7,True,,clear_driver,0,"share top=Bengaluru (interval high -6,040,975); ratio: region=Bengaluru"
+share_loss,1016,region=Mumbai: visits x0.7,True,,clear_driver,0,"share top=Mumbai (interval high -6,904,039); ratio: region=Mumbai"
+share_loss,1017,region=Tamil Nadu: visits x0.7,True,,clear_driver,0,"share top=Tamil Nadu (interval high -3,474,571); ratio: region=Tamil Nadu"
+share_loss,1018,region=Tamil Nadu: visits x0.7,True,,clear_driver,0,"share top=Tamil Nadu (interval high -2,409,206); ratio: region=Tamil Nadu"
+share_loss,1019,region=Mumbai: visits x0.7,True,,clear_driver,0,"share top=Mumbai (interval high -7,244,431); ratio: region=Mumbai; channel=Email & category=Electronics"
+share_loss,1020,region=Bengaluru: visits x0.7,True,,clear_driver,0,"share top=Bengaluru (interval high -6,390,797); ratio: region=Bengaluru"
+share_loss,1021,region=Bengaluru: visits x0.7,True,,clear_driver,0,"share top=Bengaluru (interval high -5,470,035); ratio: region=Bengaluru"
+share_loss,1022,region=Mumbai: visits x0.7,True,,clear_driver,0,"share top=Mumbai (interval high -6,011,431); ratio: region=Mumbai"
+share_loss,1023,region=Tamil Nadu: visits x0.7,True,,clear_driver,0,"share top=Tamil Nadu (interval high -3,277,000); ratio: region=Tamil Nadu"
+share_loss,1024,region=Tamil Nadu: visits x0.7,True,,clear_driver,0,"share top=Tamil Nadu (interval high -2,057,614); ratio: region=Tamil Nadu"
+share_loss,1025,region=Tamil Nadu: visits x0.7,True,,clear_driver,0,"share top=Tamil Nadu (interval high -3,377,132); ratio: region=Tamil Nadu"
+share_loss,1026,region=Delhi: visits x0.7,True,,clear_driver,0,"share top=Delhi (interval high -6,467,490); ratio: region=Delhi"
+share_loss,1027,region=Bengaluru: visits x0.7,True,,clear_driver,0,"share top=Bengaluru (interval high -5,112,421); ratio: region=Bengaluru"
+share_loss,1028,region=Tamil Nadu: visits x0.7,True,,clear_driver,0,"share top=Tamil Nadu (interval high -3,116,263); ratio: region=Tamil Nadu"
+share_loss,1029,region=Tamil Nadu: visits x0.7,True,,clear_driver,0,"share top=Tamil Nadu (interval high -3,770,186); ratio: region=Tamil Nadu"
+share_loss,1030,region=Tamil Nadu: visits x0.7,True,,clear_driver,0,"share top=Tamil Nadu (interval high -4,022,964); ratio: region=Tamil Nadu"
+share_loss,1031,region=Delhi: visits x0.7,True,,clear_driver,0,"share top=Delhi (interval high -5,265,070); ratio: region=Delhi"
+share_loss,1032,region=Tamil Nadu: visits x0.7,True,,clear_driver,0,"share top=Tamil Nadu (interval high -2,904,057); ratio: region=Tamil Nadu"
+share_loss,1033,region=Delhi: visits x0.7,True,,clear_driver,0,"share top=Delhi (interval high -5,768,761); ratio: region=Delhi"
+share_loss,1034,region=Bengaluru: visits x0.7,True,,clear_driver,0,"share top=Bengaluru (interval high -5,557,094); ratio: region=Bengaluru"
+share_loss,1035,region=Mumbai: visits x0.7,True,,clear_driver,0,"share top=Mumbai (interval high -4,744,716); ratio: region=Mumbai"
+share_loss,1036,region=Mumbai: visits x0.7,True,,clear_driver,0,"share top=Mumbai (interval high -5,904,869); ratio: region=Mumbai"
+share_loss,1037,region=Mumbai: visits x0.7,True,,clear_driver,0,"share top=Mumbai (interval high -6,568,615); ratio: region=Mumbai"
+share_loss,1038,region=Bengaluru: visits x0.7,True,,clear_driver,0,"share top=Bengaluru (interval high -6,641,979); ratio: region=Bengaluru"
+share_loss,1039,region=Bengaluru: visits x0.7,True,,clear_driver,0,"share top=Bengaluru (interval high -6,954,993); ratio: region=Bengaluru"
+share_loss,1040,region=Bengaluru: visits x0.7,True,,clear_driver,0,"share top=Bengaluru (interval high -5,642,442); ratio: region=Bengaluru"
+share_loss,1041,region=Tamil Nadu: visits x0.7,True,,clear_driver,0,"share top=Tamil Nadu (interval high -4,066,306); ratio: region=Tamil Nadu"
+share_loss,1042,region=Mumbai: visits x0.7,True,,clear_driver,0,"share top=Mumbai (interval high -7,500,050); ratio: region=Mumbai"
+share_loss,1043,region=Tamil Nadu: visits x0.7,True,,clear_driver,0,"share top=Tamil Nadu (interval high -3,921,788); ratio: region=Tamil Nadu"
+share_loss,1044,region=Tamil Nadu: visits x0.7,True,,clear_driver,0,"share top=Tamil Nadu (interval high -2,785,195); ratio: region=Tamil Nadu"
+share_loss,1045,region=Delhi: visits x0.7,True,,clear_driver,0,"share top=Delhi (interval high -5,362,265); ratio: region=Delhi"
+share_loss,1046,region=Mumbai: visits x0.7,True,,clear_driver,0,"share top=Mumbai (interval high -7,156,860); ratio: region=Mumbai"
+share_loss,1047,region=Delhi: visits x0.7,True,,clear_driver,0,"share top=Delhi (interval high -7,283,670); ratio: region=Delhi"
+share_loss,1048,region=Bengaluru: visits x0.7,True,,clear_driver,0,"share top=Bengaluru (interval high -5,029,422); ratio: region=Bengaluru"
+share_loss,1049,region=Tamil Nadu: visits x0.7,True,,clear_driver,0,"share top=Tamil Nadu (interval high -1,671,438); ratio: region=Tamil Nadu"
+share_loss,1050,region=Mumbai: visits x0.7,True,,clear_driver,0,"share top=Mumbai (interval high -7,738,653); ratio: region=Mumbai"
+share_loss,1051,region=Tamil Nadu: visits x0.7,True,,clear_driver,0,"share top=Tamil Nadu (interval high -3,728,026); ratio: region=Tamil Nadu"
+share_loss,1052,region=Mumbai: visits x0.7,True,,clear_driver,0,"share top=Mumbai (interval high -4,839,406); ratio: region=Mumbai"
+share_loss,1053,region=Delhi: visits x0.7,True,,clear_driver,0,"share top=Delhi (interval high -7,709,029); ratio: region=Delhi"
+share_loss,1054,region=Bengaluru: visits x0.7,True,,clear_driver,0,"share top=Bengaluru (interval high -8,748,732); ratio: region=Bengaluru"
+share_loss,1055,region=Delhi: visits x0.7,True,,clear_driver,0,"share top=Delhi (interval high -5,621,755); ratio: region=Delhi"
+share_loss,1056,region=Tamil Nadu: visits x0.7,True,,clear_driver,0,"share top=Tamil Nadu (interval high -3,829,513); ratio: region=Tamil Nadu"
+share_loss,1057,region=Mumbai: visits x0.7,True,,clear_driver,0,"share top=Mumbai (interval high -7,736,379); ratio: region=Mumbai"
+share_loss,1058,region=Mumbai: visits x0.7,True,,clear_driver,0,"share top=Mumbai (interval high -5,451,133); ratio: region=Mumbai"
+share_loss,1059,region=Bengaluru: visits x0.7,True,,clear_driver,0,"share top=Bengaluru (interval high -5,957,513); ratio: region=Bengaluru"
+share_loss,1060,region=Tamil Nadu: visits x0.7,True,,clear_driver,0,"share top=Tamil Nadu (interval high -3,081,076); ratio: region=Tamil Nadu"
+share_loss,1061,region=Mumbai: visits x0.7,True,,clear_driver,0,"share top=Mumbai (interval high -4,612,830); ratio: region=Mumbai"
+share_loss,1062,region=Delhi: visits x0.7,True,,clear_driver,0,"share top=Delhi (interval high -5,111,091); ratio: region=Delhi"
+share_loss,1063,region=Tamil Nadu: visits x0.7,True,,clear_driver,0,"share top=Tamil Nadu (interval high -5,989,269); ratio: region=Tamil Nadu"
+share_loss,1064,region=Bengaluru: visits x0.7,True,,clear_driver,0,"share top=Bengaluru (interval high -4,811,210); ratio: region=Bengaluru"
+share_loss,1065,region=Bengaluru: visits x0.7,True,,clear_driver,0,"share top=Bengaluru (interval high -6,231,099); ratio: region=Bengaluru"
+share_loss,1066,region=Bengaluru: visits x0.7,True,,clear_driver,0,"share top=Bengaluru (interval high -5,567,513); ratio: region=Bengaluru"
+share_loss,1067,region=Mumbai: visits x0.7,True,,clear_driver,0,"share top=Mumbai (interval high -7,956,898); ratio: region=Mumbai"
+share_loss,1068,region=Delhi: visits x0.7,True,,clear_driver,0,"share top=Delhi (interval high -5,798,873); ratio: region=Delhi"
+share_loss,1069,region=Tamil Nadu: visits x0.7,True,,clear_driver,0,"share top=Tamil Nadu (interval high -2,061,050); ratio: region=Tamil Nadu"
+share_loss,1070,region=Bengaluru: visits x0.7,True,,clear_driver,0,"share top=Bengaluru (interval high -6,953,706); ratio: region=Bengaluru"
+share_loss,1071,region=Tamil Nadu: visits x0.7,True,,clear_driver,0,"share top=Tamil Nadu (interval high -3,351,120); ratio: region=Tamil Nadu"
+share_loss,1072,region=Bengaluru: visits x0.7,True,,clear_driver,0,"share top=Bengaluru (interval high -6,229,509); ratio: region=Bengaluru"
+share_loss,1073,region=Delhi: visits x0.7,True,,clear_driver,0,"share top=Delhi (interval high -6,084,243); ratio: region=Delhi"
+share_loss,1074,region=Bengaluru: visits x0.7,True,,clear_driver,0,"share top=Bengaluru (interval high -6,339,586); ratio: region=Bengaluru"
+share_loss,1075,region=Tamil Nadu: visits x0.7,True,,clear_driver,0,"share top=Tamil Nadu (interval high -3,237,490); ratio: region=Tamil Nadu"
+share_loss,1076,region=Tamil Nadu: visits x0.7,True,,clear_driver,0,"share top=Tamil Nadu (interval high -3,908,441); ratio: region=Tamil Nadu"
+share_loss,1077,region=Tamil Nadu: visits x0.7,True,,clear_driver,0,"share top=Tamil Nadu (interval high -5,750,050); ratio: region=Tamil Nadu"
+share_loss,1078,region=Tamil Nadu: visits x0.7,True,,clear_driver,0,"share top=Tamil Nadu (interval high -3,488,483); ratio: region=Tamil Nadu"
+share_loss,1079,region=Mumbai: visits x0.7,True,,clear_driver,0,"share top=Mumbai (interval high -5,880,345); ratio: region=Mumbai"
+share_loss,1080,region=Mumbai: visits x0.7,True,,clear_driver,0,"share top=Mumbai (interval high -6,961,320); ratio: region=Mumbai"
+share_loss,1081,region=Tamil Nadu: visits x0.7,True,,clear_driver,0,"share top=Tamil Nadu (interval high -3,293,843); ratio: region=Tamil Nadu"
+share_loss,1082,region=Tamil Nadu: visits x0.7,True,,clear_driver,0,"share top=Tamil Nadu (interval high -4,021,143); ratio: region=Tamil Nadu"
+share_loss,1083,region=Tamil Nadu: visits x0.7,True,,clear_driver,0,"share top=Tamil Nadu (interval high -2,010,714); ratio: region=Tamil Nadu"
+share_loss,1084,region=Mumbai: visits x0.7,True,,clear_driver,0,"share top=Mumbai (interval high -7,034,425); ratio: region=Mumbai"
+share_loss,1085,region=Mumbai: visits x0.7,True,,clear_driver,0,"share top=Mumbai (interval high -6,403,147); ratio: region=Mumbai"
+share_loss,1086,region=Bengaluru: visits x0.7,True,,clear_driver,0,"share top=Bengaluru (interval high -5,200,076); ratio: region=Bengaluru"
+share_loss,1087,region=Mumbai: visits x0.7,True,,clear_driver,0,"share top=Mumbai (interval high -5,299,813); ratio: region=Mumbai"
+share_loss,1088,region=Tamil Nadu: visits x0.7,True,,clear_driver,0,"share top=Tamil Nadu (interval high -2,973,879); ratio: region=Tamil Nadu"
+share_loss,1089,region=Delhi: visits x0.7,True,,clear_driver,0,"share top=Delhi (interval high -6,724,600); ratio: region=Delhi"
+share_loss,1090,region=Delhi: visits x0.7,True,,clear_driver,0,"share top=Delhi (interval high -4,628,751); ratio: region=Delhi"
+share_loss,1091,region=Tamil Nadu: visits x0.7,True,,clear_driver,0,"share top=Tamil Nadu (interval high -2,513,849); ratio: region=Tamil Nadu"
+share_loss,1092,region=Delhi: visits x0.7,True,,clear_driver,0,"share top=Delhi (interval high -5,273,044); ratio: region=Delhi"
+share_loss,1093,region=Delhi: visits x0.7,True,,clear_driver,0,"share top=Delhi (interval high -6,399,953); ratio: region=Delhi"
+share_loss,1094,region=Delhi: visits x0.7,True,,clear_driver,0,"share top=Delhi (interval high -7,239,923); ratio: region=Delhi"
+share_loss,1095,region=Delhi: visits x0.7,True,,clear_driver,0,"share top=Delhi (interval high -5,855,488); ratio: region=Delhi"
+share_loss,1096,region=Bengaluru: visits x0.7,True,,clear_driver,0,"share top=Bengaluru (interval high -6,208,662); ratio: region=Bengaluru"
+share_loss,1097,region=Tamil Nadu: visits x0.7,True,,clear_driver,0,"share top=Tamil Nadu (interval high -4,022,390); ratio: region=Tamil Nadu"
+share_loss,1098,region=Delhi: visits x0.7,True,,clear_driver,0,"share top=Delhi (interval high -6,481,156); ratio: region=Delhi"
+share_loss,1099,region=Delhi: visits x0.7,True,,clear_driver,0,"share top=Delhi (interval high -6,517,709); ratio: region=Delhi"

@@ -1,0 +1,15 @@
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+extend-exclude = ["src/whymoved/app"]   # an older backend that is not part of the product
+src = ["src"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+
+[tool.ruff.lint.per-file-ignores]
+"src/whymoved/api.py" = ["B008"]        # FastAPI's Depends()/File() defaults are its idiom
+"web_tests/*" = ["E501", "E702", "F841"]  # test scaffolding

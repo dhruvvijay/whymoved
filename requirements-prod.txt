@@ -1,0 +1,7 @@
+# What the deployed server needs (no test or lint tools).
+pandas>=2.0
+numpy>=1.26
+openpyxl>=3.1
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9

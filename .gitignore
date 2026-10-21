@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.pyc
+.env
+data/synthetic/*.csv
+data/synthetic/*.json
+data/app/
+data/whymoved.db*
+data/uploads/
